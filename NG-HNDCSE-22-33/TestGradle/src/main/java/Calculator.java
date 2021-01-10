@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.icbt.calculator;
+
 
 /**
  *
@@ -15,7 +15,7 @@ public class Calculator {
         return no1 + no2;
     }
     
-    public int subtract(int no1,int no2){
+    public int substract(int no1,int no2){
         return no1 - no2;
     }
     
